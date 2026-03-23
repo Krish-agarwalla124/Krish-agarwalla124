@@ -14,4 +14,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Krish-agarwalla124&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Krish-agarwalla124&color=blue)
